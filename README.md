@@ -1,0 +1,1 @@
+# single-inheritance_python
